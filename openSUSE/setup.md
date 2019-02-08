@@ -28,7 +28,10 @@ When you do a fresh install best practice is to update. I have been warned by se
 
 `zypper lr -u`
 
+
 Results should be something similar to:
+
+```
      | Alias             | Name              | Enabled | Refresh | URI
  --+-------------------+-------------------+---------+---------+--------------------------------------------------------
  1 | repo-debug        | repo-debug        | Yes     | Yes     | http://download.opensuse.org/tumbleweed/repo/debug
@@ -37,6 +40,7 @@ Results should be something similar to:
  4 | repo-src-non-oss  | repo-src-non-oss  | No      | Yes     | http://download.opensuse.org/tumbleweed/repo/src-non-oss
  5 | repo-src-oss      | repo-src-oss      | No      | Yes     | http://download.opensuse.org/tumbleweed/repo/src-oss
  6 | update            | repo-update       | Yes     | Yes     | http://download.opensuse.org/update/tumbleweed/
+```
 
 2)Run your upgrade:
 
