@@ -28,8 +28,10 @@ When you do a fresh install best practice is to update. I have been warned by se
 
 `zypper lr -u`
 
-```
+
 Results should be something similar to:
+
+```
      | Alias             | Name              | Enabled | Refresh | URI
  --+-------------------+-------------------+---------+---------+--------------------------------------------------------
  1 | repo-debug        | repo-debug        | Yes     | Yes     | http://download.opensuse.org/tumbleweed/repo/debug
