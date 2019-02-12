@@ -15,4 +15,9 @@
 `test -r ~/.bash_profile && echo 'export GPG_TTY=$(tty)' >> ~/.bash_profile`
 `echo 'export GPG_TTY=$(tty)' >> ~/.profile`
 
+4)Set global email.
+
+`git config --global user.email "<example@example.com"`
+
+
 *Note* This file was made to test GPG signing.
