@@ -26,7 +26,41 @@ Choose from above solutions by number or cancel [1/2/c] (c): c
 
 Add unity repo: 
 
-`zypper addrepo https://download.opensuse.org/repositories/X11:UnitUntitled-1y/openSUSE_Tumbleweed/X11:Unity.repo ` 
+``` 
+ellopunk@rabbit-hole:~> sudo zypper addrepo https://download.opensuse.org/repositories/X11:Unity/openSUSE_Tumbleweed/X11:Unity.repo
+Adding repository 'Ubuntu Ayatana (openSUSE_Tumbleweed)' ................................................................................................................................................................................................................[done]
+Repository 'Ubuntu Ayatana (openSUSE_Tumbleweed)' successfully added
+
+URI         : http://download.opensuse.org/repositories/X11:/Unity/openSUSE_Tumbleweed/
+Enabled     : Yes                                                                      
+GPG Check   : Yes                                                                      
+Autorefresh : No                                                                       
+Priority    : 99 (default priority)                                                    
+
+Repository priorities in effect:                                                                                                                                                                                                               (See 'zypper lr -P' for details)
+      90 (raised priority)  :  1 repository  
+      99 (default priority) : 10 repositories
+
+```
+
+Refresh: 
+
+```
+ellopunk@rabbit-hole:~> sudo zypper refresh
+Retrieving repository 'Ubuntu Ayatana (openSUSE_Tumbleweed)' metadata ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------[\]
+
+New repository or package signing key received:
+
+  Repository:       Ubuntu Ayatana (openSUSE_Tumbleweed)        
+  Key Name:         X11 OBS Project <X11@build.opensuse.org>    
+  Key Fingerprint:  B1DA68DE 51949E7B 034237C4 BB1AF233 0F2672C8
+  Key Created:      Tue 23 May 2017 05:13:55 PM CDT             
+  Key Expires:      Thu 01 Aug 2019 05:13:55 PM CDT             
+  Rpm Name:         gpg-pubkey-0f2672c8-5924b423                
+
+```
+
+Attempted install:
 
 ``` 
 ellopunk@rabbit-hole:~/Downloads> sudo zypper install libappindicator

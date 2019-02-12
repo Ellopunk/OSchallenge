@@ -34,3 +34,26 @@
 ## [SSH Keys](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
 
 1)Follow the link above for additonal information. 
+
+### [FireFox Video Support](https://en.opensuse.org/SDB:Firefox_MP4/H.264_Video_Support)
+
+Also might be of assitance:
+ [VLC](https://en.opensuse.org/VLC)
+
+Full transpernecy this was done in an effort to correct my html5 issues for the Linux Academy website.
+
+### Opera
+
+`zypper in opera`
+
+### nodejs
+
+`zypper install nodejs`
+
+``` 
+The following 5 NEW packages are going to be installed:
+  nodejs10 nodejs10-devel nodejs-common npm10 python
+
+The following 2 recommended packages were automatically selected:
+  npm10 python
+```
