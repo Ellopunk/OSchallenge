@@ -1,6 +1,6 @@
 # OSchallenge
 
-Centralized location for my OS challenge notes.
+Centralized location for my [OS challenge](https://twitter.com/killyourfm/status/1088743914012659712) notes.
 
 1) [Elementry OS](https://elementary.io/)
 
@@ -11,3 +11,5 @@ Centralized location for my OS challenge notes.
 2) [openSUSE](https://www.opensuse.org/#Tumbleweed)
 
     [OS changes made](https://github.com/Ellopunk/OSchallenge/tree/master/openSUSE)
+
+3) Upcoming 
