@@ -1,14 +1,14 @@
 # Recommendations 
 
-Using this file for recommendations of Linux distributions others have given me.
+I am using this file for recommendations of Linux distributions others have given me. Suggestions are listed in the order they were given to me. If you add another, please do so at the bottom of the list.
 
-1) [PopOS](https://system76.com/pop)
-
-
-2) [SolusProject](https://getsol.us/home/) -recommended by @NigelGreenway. " I'm sure you've had many suggestions on an os, but thought I'd suggest @SolusProject. I use it with Budgie desktop, but there is a Gnome and Mate version to. It's very well put together and budgie is a great environment. As a software Eng. I've found it perfect" 
+A) [PopOS](https://system76.com/pop)
 
 
-3) [Antergos]() - muliple recommendations 
+B) [SolusProject](https://getsol.us/home/) -recommended by @NigelGreenway. " I'm sure you've had many suggestions on an os, but thought I'd suggest @SolusProject. I use it with Budgie desktop, but there is a Gnome and Mate version to. It's very well put together and budgie is a great environment. As a software Eng. I've found it perfect" 
+
+
+C) [Antergos]() - muliple recommendations 
    
    @Eugene__619 " I'm using that OS right now. It's like manjaro. Arch based and has two package managers."
 
