@@ -7,7 +7,9 @@
 
 `reboot`
 
-## Install "required" packages (What I require for my workflow)
+## Install "required" packages 
+
+(What I require for my workflow)
 
  ### vim and git 
 
