@@ -20,7 +20,7 @@ Centralized location for my [OS challenge](https://twitter.com/killyourfm/status
     
     - [Choose Linux episode 13](https://chooselinux.show/13)
 
-5) [Endeavour OS](Endeavour OS — An Arch-based distro with a friendly community)— An Arch-based distro with a friendly community 
+5) [Endeavour OS](https://endeavouros.com/)Endeavour OS — An Arch-based distro with a friendly community— An Arch-based distro with a friendly community 
     
     - [Choose Linux episode 14](https://chooselinux.show/14)
    
